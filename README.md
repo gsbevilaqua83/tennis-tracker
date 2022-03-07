@@ -1,4 +1,5 @@
 # tennis-tracker
+
 Tracking of elements in videos of professional tennis matches.
 
 
@@ -17,3 +18,11 @@ https://user-images.githubusercontent.com/68133293/157092634-cb128080-b879-40d3-
 
 https://user-images.githubusercontent.com/68133293/157092638-870f8443-101a-4427-9346-af80309820b4.mp4
 
+
+# Usage:
+```
+pip install -r requirements.txt
+```
+```
+python track.py [video_path]
+```
